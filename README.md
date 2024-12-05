@@ -29,8 +29,8 @@
 ### Clone este repositório:
 
 ```bash
-    git clone https://github.com/seu-usuario/agroapp.git
-    cd agroapp
+    git clone https://github.com/ZapinhaCode/Detector-de-Anomalias-em-Plantas.git
+    cd Detector-de-Anomalias-em-Plantas
 ```
 ### Crie um ambiente virtual
 
